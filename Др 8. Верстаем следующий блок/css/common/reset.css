@@ -1,0 +1,16 @@
+* {
+    text-decoration: none;
+}
+
+body{
+    margin: 0;
+}
+
+hr{
+    margin-top: 30px;
+    width: 100px;
+    background-color: var(--first-collor);
+    height: 3px;
+    border: 0;
+}
+
